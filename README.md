@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martyn</h1>
 <h3 align="center">A web development graduate from Le Wagon, Montreal</h3>
 
-- 🔭 I’m currently working on [Waitist](http://www.waitist.click/)
+- 🔭 I've recently worked on [Waitist](http://www.waitist.click/)
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, HTML5, Sass.**
 
 - 📫 How to reach me **martyn_mcgowan@yahoo.com**
+
+- 📄 Know about my experiences [https://resume.io/r/fUbRGBK6O](https://resume.io/r/fUbRGBK6O)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
