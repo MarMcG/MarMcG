@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **martyn_mcgowan@yahoo.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFAOv0GU3o/Ntke0a9xOIu2JjFSD2Nkyw]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
