@@ -3,7 +3,7 @@
 
 - 🔭 I've recently worked on [Waitist](http://www.waitist.click/)
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript, HTML5, Sass.**
+- 🌱 I’m currently learning **PHP, Java, React-Native.**
 
 - 📫 How to reach me **martyn_mcgowan@yahoo.com**
 
